@@ -1,3 +1,3 @@
-https://www.jlabella.com.my/scripts/timthumb.php
-https://fwsdetroit.com/timthumb.php
-https://www.e-varelas.gr/modules/mod_vina_carousel_virtuemart/libs/timthumb.php
+https://www.targets.com/scripts/timthumb.php
+https://target2.com/timthumb.php
+https://example.target3.com/modules/libs/timthumb.php
